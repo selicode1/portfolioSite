@@ -35,7 +35,7 @@ export default function About() {
               isInView ? 'opacity-100 translate-x-0' : 'opacity-0 -translate-x-12'
             }`}
           >
-            <div className="bg-white dark:bg-[#1C1C1E] h-full rounded-2xl p-10 shadow-lg shadow-black/10 dark:shadow-black/40 backdrop-blur-sm hover:shadow-2xl hover:scale-[1.02] transition-shadow transition-transform duration-500">
+            <div className="bg-white dark:bg-[#1C1C1E] h-full rounded-2xl p-10 shadow-lg shadow-black/10 dark:shadow-black/40 backdrop-blur-sm hover:shadow-2xl hover:scale-[1.02] transition-transform duration-500">
 
               <div className="bg-indigo-100 dark:bg-indigo-900/30 p-4 rounded-xl inline-block mb-8">
                 <Code className="h-7 w-7 text-indigo-600 dark:text-indigo-400" />
@@ -57,7 +57,7 @@ export default function About() {
               isInView ? 'opacity-100 translate-x-0' : 'opacity-0 translate-x-12'
             }`}
           >
-            <div className="bg-white dark:bg-[#1C1C1E] rounded-2xl p-10 shadow-lg shadow-black/10 dark:shadow-black/40 backdrop-blur-sm hover:shadow-2xl hover:scale-[1.02] transition-shadow transition-transform duration-500">
+            <div className="bg-white dark:bg-[#1C1C1E] rounded-2xl p-10 shadow-lg shadow-black/10 dark:shadow-black/40 backdrop-blur-sm hover:shadow-2xl hover:scale-[1.02] transition-transform duration-500">
               <div className="bg-blue-100 dark:bg-blue-900/30 p-4 rounded-xl inline-block mb-8">
                 <Palette className="h-7 w-7 text-blue-600 dark:text-blue-400" />
               </div>
